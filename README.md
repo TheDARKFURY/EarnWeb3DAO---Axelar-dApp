@@ -12,7 +12,7 @@ For example, if two different blockchain networks are able to communicate with e
 
 ---
 
-## 🤔 What is Axelar
+## What is Axelar
 
 Axelar provides Web3 with secure cross-chain communication. Axelar is built on proof-of-stake, the battle-tested method utilised by Ethereum, Cosmos, Avalanche, and others.
 
@@ -27,7 +27,7 @@ Here are two basic cross-chain functions that Axelar can add to a dApp.
 
 ---
 
-## 🚀 What we'll be building
+## What we're building
 
 Today, we will create a smart contract in which a user can send a token (say, USDC) from one chain to an account on another chain with "payment information." Payment information can include an invoice/description of payment/reason and note to a buddy, among other things.
 
